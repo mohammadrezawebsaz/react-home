@@ -1,0 +1,26 @@
+.MainMenu {
+  width: auto;
+  height: 10vh;
+  text-align: right;
+  direction: rtl;
+  display: inline-block;
+  position: absolute;
+  top: 18px;
+  right: 15px;
+}
+.MainMenu a {
+  margin: 0px 10px 0px 10px;
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid #fff;
+  padding: 7px 13px;
+  border-radius: 30px;
+  color: #fff;
+  font-size: 18px;
+  transition: all 0.3s;
+}
+.MainMenu a:hover {
+  background-color: yellowgreen;
+  border: 1px solid transparent;
+  backface-visibility: hidden;
+}

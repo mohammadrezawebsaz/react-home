@@ -1,0 +1,27 @@
+.divHeader {
+  display: block;
+  text-align: center;
+  position: relative;
+}
+.SearchBox {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 60px;
+  width: 45vw;
+  height: 40vh;
+  overflow: hidden;
+  margin-right: 10px;
+  padding-top: 50px;
+}
+.SliderBox {
+  display: inline-block;
+  width: 40vw;
+  height: 40vh;
+  margin-left: 10px;
+  position: absolute;
+  top: 0;
+  right: 80px;
+  overflow: hidden;
+  border-radius: 10px;
+}

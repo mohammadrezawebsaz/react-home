@@ -1,0 +1,11 @@
+.navbarMain {
+  background-image: url("../Image/Screenshot_1.png");
+  width: 100vw;
+  height: 10vh;
+  background-size: 100% 100%;
+  opacity: 0.7;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  display: inline-block;
+}
